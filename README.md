@@ -1,4 +1,4 @@
-# <p align=center>`Mutual Structure Learning for Multiple Kernel Clustering (Under Review)`</p>
+# <p align=center>`Mask-informed Deep Contrastive Incomplete Multi-view Clustering (Under Review)`</p>
 
 > **Authors:**
 Zhenglai Li, Yuqi Shi, Xiao He, Chang Tang
