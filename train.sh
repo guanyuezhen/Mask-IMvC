@@ -13,7 +13,7 @@ alphas=(-3 -2 -1 0 1 2 3) # differernt hyperparameters
 for data_name in "${data_names[@]}"; do
   for miss_rate in "${miss_rates[@]}"; do
       for alpha in "${alphas[@]}"; do
-          python ./main_sne.py --data_name "$data_name" --lr "$lr" --train_epochs "$train_epochs" --miss_rate "$miss_rate" --alpha "$alpha"
+          python ./main.py --data_name "$data_name" --lr "$lr" --train_epochs "$train_epochs" --miss_rate "$miss_rate" --alpha "$alpha"
       done
     done
 done
