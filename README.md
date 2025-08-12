@@ -1,4 +1,4 @@
-# <p align=center>`Mask-informed Deep Contrastive Incomplete Multi-view Clustering (Under Review)`</p>
+# <p align=center>`Mask-informed Deep Contrastive Incomplete Multi-view Clustering （IEEE TCSVT 2025）`</p>
 
 > **Authors:**
 Zhenglai Li, Yuqi Shi, Xiao He, Chang Tang
